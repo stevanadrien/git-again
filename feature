@@ -1,1 +1,3 @@
-conflict 2
+feature 4
+feature okey 
+feature fine
